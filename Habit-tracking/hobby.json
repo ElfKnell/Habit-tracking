@@ -1,0 +1,55 @@
+[
+	{
+		"id": 1,
+        "name": "studing language",
+		"actions": [
+            {
+                "name": "words",
+                "role": "helps increase vocabulary"
+            },
+            {
+                "name": "grammar",
+                "role": "allows you to write and speak correctly"
+            },
+            {
+                "name": "exercise",
+                "role": "remember the material passed"
+            }
+		],
+		"description": "Learning a language is a complex, time-intensive task that requires dedication, persistence, and hard work. If you’re reading this, then you probably already know that. \n\n What you might not know is that there are strategies that can help you study more effectively, so that you make the most of your time and energy. This handout first explains some of the key principles that guide effective language learning, and then describes activities that can help you put these principles into practice. Use these tools to create a strategic study plan that helps your language skills grow."
+	},
+	{
+		"id": 7,
+        "name": "sports training",
+		"actions": [
+            {
+                "name": "running",
+                "role": "increases endurance"
+            },
+            {
+                "name": "squatting",
+                "role": "increases leg muscles"
+            },
+            {
+                "name": "push-ups",
+                "role": "increases arm muscles"
+            }
+		],
+		"description": "Sports training is a special process of preparation of sports persons based on scientific principles aimed at improving and maintaining higher performance capacity in different sports activities. It is a particular type of training designed to improve fitness and abilities to perform in a given sport."
+	},
+	{
+		"id": 8,
+        "name": "playing musical instruments",
+		"actions": [
+            {
+                "name": "plaing",
+                "role": "improving your game"
+            },
+            {
+                "name": "music",
+                "role": "play it right"
+            }
+		],
+		"description": "In principle, any object that produces sound can be considered a musical instrument—it is through purpose that the object becomes a musical instrument. A person who plays a musical instrument is known as an instrumentalist. The history of musical instruments dates to the beginnings of human culture."
+	}
+]

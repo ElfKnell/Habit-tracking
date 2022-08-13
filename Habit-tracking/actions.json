@@ -1,0 +1,50 @@
+{
+    "words": {
+        "id": "words",
+        "id_hobby": 1,
+		"name": "Learning words",
+		"description": "Simply learning 1,000 words in a foreign language can get you far in your ability to understand texts and communicate with people.\n\n Statistics that show that the average English-speaking adult knows only 20,000-35,000 words, and it’s estimated that the top 1,000 words account for 80% of all English texts!"
+	},
+    "grammar": {
+        "id": "grammar",
+        "id_hobby": 1,
+		"name": "Studying grammar",
+		"description": "You'll be able to write and speak in a new language with proficiency if you practice imitating the words and expressions you hear from native speakers. The study of grammar is not necessary to make this happen. Grammar only clarifies the rules you are learning by listening."
+	},
+	"exercise": {
+        "id": "exercise",
+        "id_hobby": 1,
+		"name": "Performing exercises",
+		"description": "A new study reports that working out during a language class amplifies people’s ability to memorize, retain and understand new vocabulary. The findings provide more evidence that to engage our minds, we should move our bodies."
+	},
+    "running": {
+        "id": "running",
+        "id_hobby": 7,
+		"name": "Running",
+		"description": "Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions).[1] This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion.[2] A feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity.[3] The term running can refer to any of a variety of speeds ranging from jogging to sprinting."
+	},
+    "squatting": {
+        "id": "squatting",
+        "id_hobby": 7,
+		"name": "Squatting",
+		"description": "Squatting is the action of occupying an abandoned or unoccupied area of land or a building, usually residential, that the squatter does not own, rent or otherwise have lawful permission to use."
+	},
+    "push-ups": {
+        "id": "push-ups",
+        "id_hobby": 7,
+		"name": "Push-ups",
+		"description": "The push-up builds both upper-body and core strength.1 It has many modifications; beginners can start with easier versions, while more advanced exercisers can use a challenging variation. You can do the push-up as part of a bodyweight exercise session, a circuit training workout, or a strength workout."
+	},
+    "music": {
+        "id": "music",
+        "id_hobby": 8,
+		"name": "Learning music notes",
+		"description": "Some helpful mnemonics to remember this are “All Cows Eat Grass” or “All Cars Eat Gas”. The note names on the lines of the bass clef staff are G-B-D-F-A. Some helpful mnemonics to jog your memory are “Good Boys Do Fine Always” or “Good Boys Deserve Fudge Always”. Let us know what you come up with!"
+	},
+    "plaing": {
+        "id": "plaing",
+        "id_hobby": 8,
+		"name": "Practice playing musical instruments",
+		"description": "We all know that if you want to learn to play an instrument, you have to practice. But it’s important to know how to practice effectively. Your practice time will be twice as useful if you do it right - and that is the subject of this article.\n\n I am a saxophone and clarinet teacher, so of course the advice here is directed especially at woodwind players. However, most of these ideas apply to all instruments.\n\n The practice advice below is divided into three sections: Beginners (first and second year players), Middle School Age, and High School/Adult Players. Both students and parents should read it."
+	}
+}

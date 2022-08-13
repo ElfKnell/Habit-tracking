@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C61420DC28A85199004F9CF8 /* AddActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C61420DB28A85199004F9CF8 /* AddActionView.swift */; };
 		C6D7321828A57011000B0631 /* Habit_trackingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7321728A57011000B0631 /* Habit_trackingApp.swift */; };
 		C6D7321A28A57011000B0631 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7321928A57011000B0631 /* ContentView.swift */; };
 		C6D7321C28A57014000B0631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6D7321B28A57014000B0631 /* Assets.xcassets */; };
 		C6D7321F28A57014000B0631 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6D7321E28A57014000B0631 /* Preview Assets.xcassets */; };
+		C6D7322728A598CD000B0631 /* actions.json in Resources */ = {isa = PBXBuildFile; fileRef = C6D7322528A598CD000B0631 /* actions.json */; };
+		C6D7322828A598CD000B0631 /* hobby.json in Resources */ = {isa = PBXBuildFile; fileRef = C6D7322628A598CD000B0631 /* hobby.json */; };
+		C6D7322A28A59D4A000B0631 /* Action.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7322928A59D4A000B0631 /* Action.swift */; };
+		C6D7322C28A59DE9000B0631 /* Hobby.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7322B28A59DE9000B0631 /* Hobby.swift */; };
+		C6D7322E28A59FE7000B0631 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7322D28A59FE7000B0631 /* Bundle-Decodable.swift */; };
+		C6D7323028A5C2ED000B0631 /* MyHobbies.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7322F28A5C2ED000B0631 /* MyHobbies.swift */; };
+		C6D7323328A5CDAF000B0631 /* MyActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7323228A5CDAF000B0631 /* MyActions.swift */; };
+		C6D7323528A5DC1E000B0631 /* HobbyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7323428A5DC1E000B0631 /* HobbyView.swift */; };
+		C6D7323728A6782C000B0631 /* ActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D7323628A6782C000B0631 /* ActionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C61420DB28A85199004F9CF8 /* AddActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActionView.swift; sourceTree = "<group>"; };
 		C6D7321428A57011000B0631 /* Habit-tracking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Habit-tracking.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6D7321728A57011000B0631 /* Habit_trackingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Habit_trackingApp.swift; sourceTree = "<group>"; };
 		C6D7321928A57011000B0631 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C6D7321B28A57014000B0631 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6D7321E28A57014000B0631 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C6D7322528A598CD000B0631 /* actions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = actions.json; sourceTree = "<group>"; };
+		C6D7322628A598CD000B0631 /* hobby.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hobby.json; sourceTree = "<group>"; };
+		C6D7322928A59D4A000B0631 /* Action.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Action.swift; sourceTree = "<group>"; };
+		C6D7322B28A59DE9000B0631 /* Hobby.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hobby.swift; sourceTree = "<group>"; };
+		C6D7322D28A59FE7000B0631 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		C6D7322F28A5C2ED000B0631 /* MyHobbies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyHobbies.swift; sourceTree = "<group>"; };
+		C6D7323228A5CDAF000B0631 /* MyActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyActions.swift; sourceTree = "<group>"; };
+		C6D7323428A5DC1E000B0631 /* HobbyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyView.swift; sourceTree = "<group>"; };
+		C6D7323628A6782C000B0631 /* ActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +52,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C61420DD28A8519F004F9CF8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C61420DB28A85199004F9CF8 /* AddActionView.swift */,
+				C6D7323628A6782C000B0631 /* ActionView.swift */,
+				C6D7323428A5DC1E000B0631 /* HobbyView.swift */,
+				C6D7321928A57011000B0631 /* ContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		C6D7320B28A57011000B0631 = {
 			isa = PBXGroup;
 			children = (
@@ -51,9 +82,12 @@
 		C6D7321628A57011000B0631 /* Habit-tracking */ = {
 			isa = PBXGroup;
 			children = (
+				C61420DD28A8519F004F9CF8 /* View */,
+				C6D7323128A5CD03000B0631 /* Model */,
 				C6D7321728A57011000B0631 /* Habit_trackingApp.swift */,
-				C6D7321928A57011000B0631 /* ContentView.swift */,
 				C6D7321B28A57014000B0631 /* Assets.xcassets */,
+				C6D7322528A598CD000B0631 /* actions.json */,
+				C6D7322628A598CD000B0631 /* hobby.json */,
 				C6D7321D28A57014000B0631 /* Preview Content */,
 			);
 			path = "Habit-tracking";
@@ -65,6 +99,18 @@
 				C6D7321E28A57014000B0631 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C6D7323128A5CD03000B0631 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C6D7322928A59D4A000B0631 /* Action.swift */,
+				C6D7322B28A59DE9000B0631 /* Hobby.swift */,
+				C6D7322D28A59FE7000B0631 /* Bundle-Decodable.swift */,
+				C6D7322F28A5C2ED000B0631 /* MyHobbies.swift */,
+				C6D7323228A5CDAF000B0631 /* MyActions.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +171,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6D7322728A598CD000B0631 /* actions.json in Resources */,
 				C6D7321F28A57014000B0631 /* Preview Assets.xcassets in Resources */,
+				C6D7322828A598CD000B0631 /* hobby.json in Resources */,
 				C6D7321C28A57014000B0631 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +185,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6D7323028A5C2ED000B0631 /* MyHobbies.swift in Sources */,
+				C6D7323528A5DC1E000B0631 /* HobbyView.swift in Sources */,
+				C6D7323328A5CDAF000B0631 /* MyActions.swift in Sources */,
+				C6D7323728A6782C000B0631 /* ActionView.swift in Sources */,
+				C61420DC28A85199004F9CF8 /* AddActionView.swift in Sources */,
 				C6D7321A28A57011000B0631 /* ContentView.swift in Sources */,
+				C6D7322A28A59D4A000B0631 /* Action.swift in Sources */,
+				C6D7322E28A59FE7000B0631 /* Bundle-Decodable.swift in Sources */,
+				C6D7322C28A59DE9000B0631 /* Hobby.swift in Sources */,
 				C6D7321828A57011000B0631 /* Habit_trackingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
